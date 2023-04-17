@@ -1,10 +1,13 @@
 <h2>👋 Park Seong Jun</h2>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=psj98&show_icons=true&theme=radical) 
+![psj98's github stats](https://github-readme-stats.vercel.app/api?username=psj98&show_icons=true&theme=radical) 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=park98sj)](https://solved.ac/park98sj)
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=park98sj)](https://solved.ac/park98sj) -->
 
 <h3>📚 STACKS</h3>
+
+![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white)
 ![Unreal_Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=white)
@@ -14,10 +17,9 @@
 
 <h3>✏️ LEARNING</h3>
 
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![SprintBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 <h3>👨‍💻 Contacts</h3>
 
