@@ -1,7 +1,7 @@
 <h2>👋 Park Seong Jun</h2>
 
-![psj98's github stats](https://github-readme-stats.vercel.app/api?username=psj98&show_icons=true&theme=radical) 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=park98sj)](https://solved.ac/park98sj)
+<!-- ![psj98's github stats](https://github-readme-stats.vercel.app/api?username=psj98&show_icons=true&theme=radical) 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=park98sj)](https://solved.ac/park98sj) -->
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=park98sj)](https://solved.ac/park98sj) -->
 
 ### 📚 STACKS
