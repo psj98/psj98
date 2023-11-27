@@ -49,7 +49,7 @@
 <h3>✏️ LEARNING</h3>
 
 ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JPA](https://img.shields.io/badge/jpa-20336B?style=for-the-badge&logo=JPA&logoColor=white)
+![JPA](https://img.shields.io/badge/jpa-59666C.svg?&style=for-the-badge&logo=hibernate&logoColor=white)
 
 
 <h3>👨‍💻 Contacts</h3>
