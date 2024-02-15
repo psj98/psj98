@@ -57,9 +57,3 @@
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@park98sj)](https://velog.io/@park98sj)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:park98sj@gmail.com)](mailto:park98sj@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_5eongjun_/)](https://www.instagram.com/_5eongjun_/)
-
-<!-- <h3>👨‍💻 Others</h3> -->
-
-
-
-
